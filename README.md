@@ -2,7 +2,7 @@
 
 Hi everyone!
 
-I am a freelance engineer focused on methods and analysis tools for numerical analysis (FEA, CFD). I am passionate about engineering, software, innovation and my mission is to support company in  and facilitate their innovation process by providing technical consultancy combined with state-of-the-art analysis methods and software tools.\
+I am a freelance engineer focused on methods and analysis tools for numerical analysis (FEA, CFD). I am passionate about engineering, software, innovation and my mission is to support companies in design verification and optimization and facilitate their innovation process by providing technical consultancy combined with state-of-the-art analysis methods and software tools.\
 I'm comfortable in dealing with Among these, I am a developer of pre-post processing environment for FEA analysis.
 
 In 2016, I started my  .
