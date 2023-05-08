@@ -2,7 +2,7 @@
 
 Hi everyone!
 
-I am a freelance engineer focused on methods and analysis tools for numerical analysis and simulation especially CAE simulations (FEA, CFD). I am passionate about engineering, software, and in general innovation, and my mission is to support company in  and facilitate their innovation process by providing technical consultancy combined with state-of-the-art analysis methods and software tools.\
+I am a freelance engineer focused on methods and analysis tools for numerical analysis (FEA, CFD). I am passionate about engineering, software, innovation and my mission is to support company in  and facilitate their innovation process by providing technical consultancy combined with state-of-the-art analysis methods and software tools.\
 I'm comfortable in dealing with Among these, I am a developer of pre-post processing environment for FEA analysis.
 
 In 2016, I started my  .
@@ -23,6 +23,14 @@ Previously, I was a PhD student and research fellow at the [FluidLab group](http
 ### Other resources
 
 - [Personal website](http://mandellis.github.io/)
+
+## Contacts:
+
+Fell free to contact me
+
+- Adress: via privata Galla Placidia 12, 20131 Milano (MI), Italy
+- Mail: [simone87.mandelli@gmail.com](simone87.mandelli@gmail.com)
+- [Calendly](https://calendly.com/smandelli)
 
 <!--
 **mandellis/mandellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
