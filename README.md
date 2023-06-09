@@ -2,17 +2,12 @@
 
 Hi everyone!
 
-I am a freelance engineer focused on methods and analysis tools for numerical analysis (FEA, CFD). I am passionate about engineering, software, innovation and my mission is to support companies in design verification and optimization and facilitate their innovation process by providing technical consultancy combined with state-of-the-art analysis methods and software tools.\
-I'm comfortable in dealing with Among these, I am a developer of pre-post processing environment for FEA analysis.
+I am an engineer focused on methods and analysis tools for numerical analysis (FEA, CFD). I am passionate about engineering, software, innovation and my mission is to support companies in design verification and optimization and facilitate their innovation process by providing technical consultancy combined with state-of-the-art analysis methods and software tools.\
+In all my interests and professional activities I'd like to discover a subject, study, apply and become a master until I start to approach other “stuff."   
 
-In 2016, I started my  .
+This lead me in 2016 to start my professional activity as consultant.
 
-In 2017, I was a software developer and FEA analyst in the [PuzzleDie project](https://www.costampgroup.it/it/research-details/programma-horizon-2020-1.aspx) 
-
-Previously, I was a PhD student and research fellow at the [FluidLab group](https://www.fluidlab.polimi.it/) at Polytechnic of Milan, working on fluid interaction 
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonemandelli)
+Previously, I was a PhD student and research fellow at the [FluidLab group](https://www.fluidlab.polimi.it/) at Polytechnic of Milan, my reasearch was focused mainly on fluid-structure interaction phenomena but I was involved in several side projects from erosion prediction in valves and turbine components to fluid dynamic analysis on valves.
 
 
 ### Software and Projects
@@ -22,15 +17,18 @@ Previously, I was a PhD student and research fellow at the [FluidLab group](http
 
 ### Other resources
 
-- [Personal website](http://mandellis.github.io/)
+- [Personal website](https://simonemandelli.eu/)
+- [Bio and Personal Data] (https://sunrise-oxygen-3ab.notion.site/Simone-Mandelli-0bb0b2956c5943d5984f6da8598a4b36?pvs=4)
 
 ## Contacts:
 
 Fell free to contact me
 
 - Adress: via privata Galla Placidia 12, 20131 Milano (MI), Italy
-- Mail: [simone87.mandelli@gmail.com](simone87.mandelli@gmail.com)
-- [Calendly](https://calendly.com/smandelli)
+- Mail: [hello@simonemandelli.eu](hello@simonemandelli.eu)
+- Meeting:[Calendly](https://calendly.com/smandelli)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonemandelli)
 
 <!--
 **mandellis/mandellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
