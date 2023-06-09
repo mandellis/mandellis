@@ -18,7 +18,7 @@ Previously, I was a PhD student and research fellow at the [FluidLab group](http
 ### Other resources
 
 - [Personal website](https://simonemandelli.eu/)
-- [Bio and Personal Data] (https://sunrise-oxygen-3ab.notion.site/Simone-Mandelli-0bb0b2956c5943d5984f6da8598a4b36?pvs=4)
+- [Bio and Personal Data](https://sunrise-oxygen-3ab.notion.site/Simone-Mandelli-0bb0b2956c5943d5984f6da8598a4b36?pvs=4)
 
 ## Contacts:
 
