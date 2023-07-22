@@ -12,7 +12,7 @@ Previously, I was a PhD student and research fellow at the [FluidLab group](http
 
 ### Software and Projects
 
-- [SolvoTS](https://github.com/SolvoSRL/Solvo): SolvoTS is a pre/post-processing tool that streamlines the generation of analysis input decks for Calculix solver [Calculix](http://www.dhondt.de/). It can import Step and STL geometries and provides model preparation, mesh generation with full cad-mesh associativity, analysis preparation and results post-processing. It can be easily customized and extended to produce run-ready input for additional solvers. 
+- [SimSpace](https://github.com/mandellis/SimSpace): SimSpace is a pre/post-processing tool that streamlines the generation of analysis input decks for Calculix solver [Calculix](http://www.dhondt.de/). It can import Step and STL geometries and provides model preparation, mesh generation with full cad-mesh associativity, analysis preparation and results post-processing. It can be easily customized and extended to produce run-ready input for additional solvers. 
 
 
 ### Other resources
